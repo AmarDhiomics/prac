@@ -1,7 +1,9 @@
 pandas
 scikit-learn
 numpy
+dvc
+dvc[gdrive]
 matplotlib
 vaml
-dvc
+
 sklearn
